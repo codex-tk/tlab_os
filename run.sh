@@ -1,1 +1,0 @@
-qemu-system-arm -m 256 -M raspi2 -serial stdio -kernel ./build/tlab_os.elf
